@@ -24,3 +24,20 @@
 #section3 {
   text-align: center;
 }
+
+#section4 {
+  text-align: center;
+  margin-top: 50px;
+}
+
+#section5 {
+  margin-top: 50px;
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+}
+
+#section5-subpart {
+  display: flex;
+  justify-content: center;
+}
