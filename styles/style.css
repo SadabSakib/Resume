@@ -1,8 +1,15 @@
-#section1{
+#section1 {
+  background-image: url('materials/Hero-bg.png');
+  /* background img ashe na why? */
   display: flex;
   align-items: center;
   justify-content: center;
 }
-.center-align{
+
+.center-align {
   text-align: center;
+}
+
+.display-flex {
+  display: flex;
 }
