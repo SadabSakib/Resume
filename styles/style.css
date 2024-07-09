@@ -13,3 +13,14 @@
 .display-flex {
   display: flex;
 }
+
+#section2 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-top: 50px;
+}
+
+#section3 {
+  text-align: center;
+}
