@@ -116,13 +116,17 @@
 
 #section6 input {
   border-radius: 15px;
+ 
+}
+input[type="text"]{
+width: 500px;
 }
 
 #section6 img {
   border-radius: 16px;
   background-size: cover;
   width: 800px;
-  height: 200px;
+  height: 300px;
   /* color: aqua; */
   filter: brightness(50%);
 }
