@@ -114,9 +114,9 @@ position: relative;
 #section6 img{
   
   border-radius: 16px;
-  background-size: contain;
-  width: 1040px;
-  height: 315px;
+  /* background-size: cover; */
+   /* width: 1040px;
+  height: 315px;  */
  color: rgba(0, 0, 0, 0.2),
   rgba(0, 0, 0, 0.2),
   rgba(0, 0, 0, 0.2);;
