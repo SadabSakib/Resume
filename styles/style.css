@@ -73,7 +73,8 @@
 }
 
 #section4 {
-  text-align: center;
+  display: flex;
+  justify-content: center;
   margin-top: 50px;
 }
 
@@ -168,4 +169,19 @@ footer {
 #something3 {
   border-radius: 16px;
   background: rgba(255, 223, 0, 0.05);
+}
+#vdolink{
+  height: 350px;
+  width: 600px;
+  /* padding: 50px 50px 50px 50px; */
+  /* border-color: 20px solid black; */
+  box-sizing: border-box;
+    border: 1px solid rgba(13, 19, 33, 0.2);
+    border-radius: 16px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+#vdolink iframe{
+  height: 300px;
 }
