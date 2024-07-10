@@ -6,6 +6,13 @@
   justify-content: center;
 }
 
+#title {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
 .center-align {
   text-align: center;
 }
@@ -20,10 +27,12 @@
   height: 336px;
   margin-bottom: 50px;
 }
-.display-flex button{
+
+.display-flex button {
   background-color: white;
 }
-.low-opacity{
+
+.low-opacity {
   opacity: 70%;
 }
 
@@ -86,12 +95,12 @@
 }
 
 #section6 {
- 
+
   background: rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2);
   padding: 64px 48px;
   margin-top: 60px;
   background-image: url('/materials/handshake.jpg');
-  background-size:contain;
+  background-size: contain;
   background-repeat: no-repeat;
   background-position: center;
   background-size: 1000px 500px;
@@ -99,9 +108,9 @@
   flex-direction: column;
   align-items: center;
   justify-content: center;
-  color: white ;
- 
- 
+  color: white;
+
+
 
 }
 
